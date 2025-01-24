@@ -1,0 +1,14 @@
+C:\Users\Nazario\source\repos\CreateFile\CreateFile\bin\Debug\net8.0\CreateFile.exe
+C:\Users\Nazario\source\repos\CreateFile\CreateFile\bin\Debug\net8.0\CreateFile.deps.json
+C:\Users\Nazario\source\repos\CreateFile\CreateFile\bin\Debug\net8.0\CreateFile.runtimeconfig.json
+C:\Users\Nazario\source\repos\CreateFile\CreateFile\bin\Debug\net8.0\CreateFile.dll
+C:\Users\Nazario\source\repos\CreateFile\CreateFile\bin\Debug\net8.0\CreateFile.pdb
+C:\Users\Nazario\source\repos\CreateFile\CreateFile\obj\Debug\net8.0\CreateFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazario\source\repos\CreateFile\CreateFile\obj\Debug\net8.0\CreateFile.AssemblyInfoInputs.cache
+C:\Users\Nazario\source\repos\CreateFile\CreateFile\obj\Debug\net8.0\CreateFile.AssemblyInfo.cs
+C:\Users\Nazario\source\repos\CreateFile\CreateFile\obj\Debug\net8.0\CreateFile.csproj.CoreCompileInputs.cache
+C:\Users\Nazario\source\repos\CreateFile\CreateFile\obj\Debug\net8.0\CreateFile.dll
+C:\Users\Nazario\source\repos\CreateFile\CreateFile\obj\Debug\net8.0\refint\CreateFile.dll
+C:\Users\Nazario\source\repos\CreateFile\CreateFile\obj\Debug\net8.0\CreateFile.pdb
+C:\Users\Nazario\source\repos\CreateFile\CreateFile\obj\Debug\net8.0\CreateFile.genruntimeconfig.cache
+C:\Users\Nazario\source\repos\CreateFile\CreateFile\obj\Debug\net8.0\ref\CreateFile.dll
